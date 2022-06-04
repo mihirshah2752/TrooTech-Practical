@@ -1,0 +1,9 @@
+.pointer{
+    cursor: pointer;
+}
+.action {
+    color: blueviolet;
+}
+.action:hover {
+    color: red;
+}
